@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maung Noor Islam</h1>
+<h1 align="center">Hi 👋, I'm Maung Noor Islam(Yar Htay Myint)</h1>
 <h3 align="center">A passionate Technician and developer from Myanmar. I love to learn visual memory and collaborate with expert people around the world.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maungnoorislam&label=Profile%20views&color=0e75b6&style=flat" alt="maungnoorislam" /> </p>
@@ -7,9 +7,21 @@
 
 - 🔭 I’m currently working on **DBMS**
 
-- 🌱 I’m currently learning **Academic Project, CS2203 & CS1104**
+- 🌱 I’m currently learning **Academic Project,CS2203-Database & CS1104-Computer System**
 
-- 📫 How to reach me **MaungNoorIslam**
+- 👯 I’m looking to collaborate on **GitHub Campus Expert**
+
+- 🤝 I’m looking for help with **Artificial Intelligence and Machine Learning**
+
+- 📝 I regularly write articles on [http://rcloudit.azurewebsites.net/](http://rcloudit.azurewebsites.net/)
+
+- 💬 Ask me about **BSc.Computer Science, Microsoft Learn Student Ambassador, and Microsoft Azure Developer. A Citizen Scientist IASC, NASA. Scientific Researcher at Research Gate. The greatest gift to give to the younger generation is education, they can do so many thing, we can change their history.**
+
+- 📫 How to reach me **Maung Noor Islam(Yar Htay Myint)**
+
+- 📄 Know about my experiences [https://www.researchgate.net/profile/Maung-Noor-Islam-2?ev=hdr_xprf](https://www.researchgate.net/profile/Maung-Noor-Islam-2?ev=hdr_xprf)
+
+- ⚡ Fun fact **There is no genius without madness, I am an idiot and crazy fun.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
