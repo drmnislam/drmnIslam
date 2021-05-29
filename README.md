@@ -1,23 +1,21 @@
 <h1 align="center">Hi 👋, I'm Maung Noor Islam(Yar Htay Myint)</h1>
-<h3 align="center">A passionate Technician and developer from Myanmar. I love to learn visual memory and collaborate with expert people around the world.</h3>
+<h3 align="center">Programmer, Developer, Technician, Researcher, Academic Writer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maungnoorislam&label=Profile%20views&color=0e75b6&style=flat" alt="maungnoorislam" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/maungnoorislamm" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/maungnoorislamm?logo=twitter&style=for-the-badge" alt="https://twitter.com/maungnoorislamm" /></a> </p>
+- 🔭 I’m currently working on **MySQL, Oracle Database, Computer System, especially Academic Projects.**
 
-- 🔭 I’m currently working on **DBMS**
+- 🌱 I’m currently learning **Bachelor's Degree in Computer Science and Undergraduate Student.**
 
-- 🌱 I’m currently learning **Academic Project,CS2203-Database & CS1104-Computer System**
+- 👯 I’m looking to collaborate on **GitHub Campus Expert,Teacher and comates to better contribution and make the world a better place.**
 
-- 👯 I’m looking to collaborate on **GitHub Campus Expert**
-
-- 🤝 I’m looking for help with **Artificial Intelligence and Machine Learning**
+- 🤝 I’m looking for help with **Artificial Intelligence, Machine Learning and Aerospace Engineering.**
 
 - 📝 I regularly write articles on [http://rcloudit.azurewebsites.net/](http://rcloudit.azurewebsites.net/)
 
-- 💬 Ask me about **BSc.Computer Science, Microsoft Learn Student Ambassador, and Microsoft Azure Developer. A Citizen Scientist IASC, NASA. Scientific Researcher at Research Gate. The greatest gift to give to the younger generation is education, they can do so many thing, we can change their history.**
+- 💬 Ask me about **Python, Java, SQL, MATLAB, Art&Science and Technical Problem**
 
-- 📫 How to reach me **Maung Noor Islam(Yar Htay Myint)**
+- 📫 How to reach me **https://www.linkedin.com/in/maung-noor-islam-1a1861196/**
 
 - 📄 Know about my experiences [https://www.researchgate.net/profile/Maung-Noor-Islam-2?ev=hdr_xprf](https://www.researchgate.net/profile/Maung-Noor-Islam-2?ev=hdr_xprf)
 
@@ -25,12 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/maungnoorislamm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="https://twitter.com/maungnoorislamm" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/maung-noor-islam-1a1861196/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maung-noor-islam-1a1861196/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/12401032/maung-noor-islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/12401032/maung-noor-islam" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/htm.rr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/htm.rr/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/apinternational.official/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/apinternational.official/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uceddilxh8uc8g3a8tm36bdw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uceddilxh8uc8g3a8tm36bdw" height="30" width="40" /></a>
+<a href= "http://rcloudit.azurewebsites.net"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
