@@ -7,20 +7,20 @@
 
 - 🌱 I’m currently learning **Bachelor's Degree in Computer Science and Undergraduate Student.**
 
-- 👯 I’m looking to collaborate on **GitHub Campus Expert,Teacher and comates to better contribution and make the world a better place.**
+- 👯 I’m looking to collaborate on **GitHub Campus Expert,Teacher and co-mates to better contribute and make the world a better place.**
 
-- 🤝 I’m looking for help with **Artificial Intelligence, Machine Learning and Aerospace Engineering.**
+- 🤝 I’m looking for help with **Artificial Intelligence, Machine Learning, and Aerospace Engineering.**
 
 - 📝 I regularly write articles on [http://rcloudit.azurewebsites.net/](http://rcloudit.azurewebsites.net/)
 
-- 💬 Ask me about **Python, Java, SQL, MATLAB, Art&Science and Technical Problem**
+- 💬 Ask me about **Python, Java, SQL, MATLAB, Art&Science and Technical Problem.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/maung-noor-islam-1a1861196/**
 
 - 📄 Know about my experiences [https://www.researchgate.net/profile/Maung-Noor-Islam-2?ev=hdr_xprf](https://www.researchgate.net/profile/Maung-Noor-Islam-2?ev=hdr_xprf)
 
 - ⚡ Fun fact **There is no genius without madness, I am an idiot and crazy fun.**
-
+.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href= "http://rcloudit.azurewebsites.net"/></a>
