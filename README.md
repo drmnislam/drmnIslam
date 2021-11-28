@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Python, Java, SQL, MATLAB, Art&Science and Technical Problem.**
 
-- 📫 How to reach me **https://www.linkedin.com/in/maung-noor-islam-1a1861196/**
+- 📫 How to reach me **https://www.linkedin.com/in/maung-noor-islam/**
 
 - 📄 Know about my experiences [https://www.researchgate.net/profile/Maung-Noor-Islam-2?ev=hdr_xprf](https://www.researchgate.net/profile/Maung-Noor-Islam-2?ev=hdr_xprf)
 
