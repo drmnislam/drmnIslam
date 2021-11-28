@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **MySQL, Oracle Database, Computer System, Communication and Networking.**
 
-- 🌱 I’m currently learning **Bachelor's Degree in Computer Science and Undergraduate Student.**
+- 🌱 I’m currently learning **Bachelor's Degree in Computer Science and Undergraduate Student University of the People, Cybersecurity Specialization New York University**
 
 - 👯 I’m looking to collaborate on **GitHub Campus Expert,Teacher and co-mates to better contribute and make the world a better place.**
 
