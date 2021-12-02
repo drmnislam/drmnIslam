@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maungnoorislam&label=Profile%20views&color=0e75b6&style=flat" alt="maungnoorislam" /> </p>
 
-- 🔭 I’m currently working on **MySQL, Oracle Database, Computer System, Communication and Networking.**
+- 🔭 I’m currently working on **Software Engineering and Operating System.**
 
 - 🌱 I’m currently learning **Bachelor's Degree in Computer Science and Undergraduate Student University of the People, Cybersecurity Specialization New York University**
 
