@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SaMaung Noor.Islam</h1>
+<h1 align="center">Hi 👋, I'm SaMaung Noor. Islam</h1>
 <h3 align="center">Programmer, Developer, Technician, Researcher, Academic Writer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maungnoorislam&label=Profile%20views&color=0e75b6&style=flat" alt="maungnoorislam" /> </p>
