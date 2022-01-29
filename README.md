@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maungnoorislam&label=Profile%20views&color=0e75b6&style=flat" alt="maungnoorislam" /> </p>
 
-- 🔭 I’m currently working on **Software Engineering, Webprogramming, and Operating System.**
+- 🔭 I’m currently working on **academic projects and undergraduate student.**
 
-- 🌱 I’m currently learning **Bachelor's Degree in Computer Science and Undergraduate Student University of the People. Graduated in Diploma "The Credential of Readiness (CORe) at Harvard Business School Online**
+- 🌱 I’m currently learning **Bachelor's Degree in Computer Science and Undergraduate Student University of the People. Graduated in Diploma "The Credential of Readiness (CORe) at Harvard Business School Online.**
 
 - 👯 I’m looking to collaborate on **GitHub Campus Expert, Teacher and co-mates to better contribute and make the world a better place.**
 
