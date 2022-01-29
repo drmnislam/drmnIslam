@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm SaMaung Noor. Islam</h1>
+<h1 align="center">Hi 👋, I'm Maung Noor. Islam</h1>
 <h3 align="center">Programmer, Developer, Technician, Researcher, Academic Writer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maungnoorislam&label=Profile%20views&color=0e75b6&style=flat" alt="maungnoorislam" /> </p>
 
-- 🔭 I’m currently working on **Software Engineering and Operating System.**
+- 🔭 I’m currently working on **Software Engineering, Webprogramming, and Operating System.**
 
-- 🌱 I’m currently learning **Bachelor's Degree in Computer Science and Undergraduate Student University of the People, Cybersecurity Specialization New York University**
+- 🌱 I’m currently learning **Bachelor's Degree in Computer Science and Undergraduate Student University of the People. Graduated in Diploma "The Credential of Readiness (CORe) at Harvard Business School Online**
 
-- 👯 I’m looking to collaborate on **GitHub Campus Expert,Teacher and co-mates to better contribute and make the world a better place.**
+- 👯 I’m looking to collaborate on **GitHub Campus Expert, Teacher and co-mates to better contribute and make the world a better place.**
 
-- 🤝 I’m looking for help with **Artificial Intelligence, Machine Learning, and Aerospace Engineering.**
+- 🤝 I’m looking for help with **Artificial Intelligence, Machine Learning, Deep Learning, and Astronomy science.**
 
 - 📝 I regularly write articles on [http://rcloudit.azurewebsites.net/](http://rcloudit.azurewebsites.net/)
 
-- 💬 Ask me about **Python, Java, SQL, MATLAB, Art&Science and Technical Problem.**
+- 💬 Ask me about **Python, Java, SQL, MATLAB, Psychology, Emotional Intelligence, Research Methodology, and Technical Problem.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/maung-noor-islam/**
 
