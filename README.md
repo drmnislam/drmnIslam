@@ -3,6 +3,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maungnoorislam&label=Profile%20views&color=0e75b6&style=flat" alt="maungnoorislam" /> </p>
 I am a scientist and Editor-in-Chief of the RW Lab. A Bachelor of Science in Computer Science from the University of the People, Pasadena, CA. Harvard Business School Online (core program) and Harvard Extension School (American Literature and Culture). The Computer Systems Programmer, Networking, and Telecommunications associate degrees were obtained from the American Council on Education (ACE). I am currently interested in pursuing a Bachelor of Science in Cybersecurity at Excelsior University, 7 Columbia Cir, Albany, NY 12203, United States. I am a programmer, developer, cloud admin, AI & ML engineer, and scientific researcher. I am a full-stack software developer and web developer specializing in front-end development. I have experience with all stages of the development cycle for dynamic web projects and am well-versed in numerous programming languages, including Java, Python, HTML5, PHP, OOP, JavaScript, CSS, and MySQL. I have a strong background in project management, cloud computing, and cybersecurity. I am a Citizen Scientist for Planetary Scientific Discovery at the International Astronomical Search Collaboration (NASA). Google Scholar and Research Gate have scientific members. As a Yammer alumnus and International Student Network educator, I hope to leverage the development of my knowledge and skills for the role in my workplace. EDU 101: Citizen-Science Research Methods, OPS 101: Systems Engineering for Human Space Missions. In addition to the IBM Cybersecurity Professional Certification and Deep Learning Specialization, it also earned the G100: IT Support Professional Certification.
 
+# 💫 About Me:
+🔥🔥 Machine learning, deep learning, and data science are areas that really pique my attention and where I excel. When I go above and above for my customers, I get a rush from demonstrating the depth of my expertise and earning their confidence. I am able to motivate myself and I like working on assignments that push me to my limits. I want to achieve the goals that have been set for me and guarantee that I will devote my whole attention to the work that has been given to me. 🔥🔥
+
+- 🔭 I am currently Working on Explainable AI, Transformer Learning
+- 🌱 I’m currently learning Deep Learning , Machine Learning, Data Science
+- 👯 I’m looking to collaborate on Data Fusion and Self Automations.
+- 🤔 I’m looking for help with AI projects
+- 💬 Ask me about AI
 - 📝 I regularly write articles on [http://rcloudit.azurewebsites.net/](http://rcloudit.azurewebsites.net/)
 - 📫 How to reach me **https://www.linkedin.com/in/maung-noor-islam/**
 - 📄 Know about my experiences [https://www.researchgate.net/profile/Maung-Noor-Islam-2?ev=hdr_xprf](https://www.researchgate.net/profile/Maung-Noor-Islam-2?ev=hdr_xprf)
@@ -17,18 +25,6 @@ I am a scientist and Editor-in-Chief of the RW Lab. A Bachelor of Science in Com
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maungnoorislam&show_icons=true&locale=en" alt="maungnoorislam" /></p>
 
 <img src="https://github.com/ahammadmejbah/AHAMMADMEJBAH/blob/main/DeepNeuronAI.png" alt="Deep Neuron AI">
-
-# 💫 About Me:
-
-🔥🔥 Machine learning, deep learning, and data science are areas that really pique my attention and where I excel. When I go above and above for my customers, I get a rush from demonstrating the depth of my expertise and earning their confidence. I am able to motivate myself and I like working on assignments that push me to my limits. I want to achieve the goals that have been set for me and guarantee that I will devote my whole attention to the work that has been given to me. 🔥🔥
-
-
-- 🔭 I am currently Working on Explainable AI, Transformer Learning
-- 🌱 I’m currently learning Deep Learning , Machine Learning, Data Science
-- 👯 I’m looking to collaborate on Data Fusion and Self Automations.
-- 🤔 I’m looking for help with AI projects
-- 💬 Ask me about AI
-
 
 <p align="center">
 
@@ -67,7 +63,6 @@ I am a scientist and Editor-in-Chief of the RW Lab. A Bachelor of Science in Com
 [![](https://visitcount.itsvg.in/api?id=AHAMMADMEJBAH&icon=2&color=5)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ahammadmejbah) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ahammadmejbah) 
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
