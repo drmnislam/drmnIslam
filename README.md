@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maung N. Islam</h1>
 # 💫 About Me:
-Machine learning, deep learning, and data science are areas that really pique my attention and where I excel. When I go above and above for my customers, I get a rush from demonstrating the depth of my expertise and earning their confidence. I am able to motivate myself and I like working on assignments that push me to my limits. I want to achieve the goals that have been set for me and guarantee that I will devote my whole attention to the work that has been given to me
+Machine learning, deep learning, and data science are areas that really pique my attention and where I excel. When I go above and above for my customers, I get a rush from demonstrating the depth of my expertise and earning their confidence. I am able to motivate myself and I like working on assignments that push me to my limits. I want to achieve the goals that have been set for me and guarantee that I will devote my whole attention to the work that has been given to me.
 <p align="left">
 <a href= "http://rcloudit.azurewebsites.net"/></a>
 </p>
@@ -29,7 +29,5 @@ Machine learning, deep learning, and data science are areas that really pique my
 ---
 [![](https://visitcount.itsvg.in/api?id=MaungNoorIslam&icon=2&color=5)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-MaungNoor.Islam@studentambassadors.com 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
