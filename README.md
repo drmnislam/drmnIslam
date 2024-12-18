@@ -6,9 +6,9 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 <img src="developer.gif" alt="coding boy gif" width="300" align='right' />
 
-- 🌱 &nbsp; I’m currently working as a Frontend Developer 
-- 🚀 &nbsp; I want to become a **Full-stack Web Developer**
-- 💬 &nbsp; Ask me about **Front-end Web Development**
+- 🌱 &nbsp; I’m currently working as a Graduate Student Researcher and Graduate Research Assistant. 
+- 🚀 &nbsp; I foused on **Theoritical Computer Science**
+- 💬 &nbsp; Ask me about **Machine learning, Artificial Intelligence, Computer Science, Human Computer Interaction and Trustworthy**
 - ⚡ &nbsp; Fun fact: I'm a lazybone. xD
 
 <h3> 🌐 &nbsp; Technologies and Tools</h3>
